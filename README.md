@@ -1,8 +1,5 @@
 ### Software Engineer at Sysco LABS | Former intern at WSO2
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihinduranasinghe&label=Views&color=blue&style=plastic" alt="Mihindu Ranasinghe" /> </p>
-
-For more about me : https://mihinduranasinghe.com
+For more about me : https://mihinduranasinghe.com 
 
 <a href="https://www.linkedin.com/in/mihindu-ranasinghe-b532a8155/">
   <img align="left" alt="Mihindu Ranasinghe Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,6 +15,7 @@ For more about me : https://mihinduranasinghe.com
 </a>
 
 <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihinduranasinghe&label=Profile%20Views&color=green&style=plastic" alt="Mihindu Ranasinghe" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mihinduranasinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
