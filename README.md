@@ -1,4 +1,4 @@
-### Software Engineer at Sysco LABS | Former intern at WSO2
+### Senior Software Engineer at Sysco LABS | Former intern at WSO2
 For more about me : https://mihinduranasinghe.com 
 
 <a href="https://www.linkedin.com/in/mihindu-ranasinghe-b532a8155/">
